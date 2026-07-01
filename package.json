@@ -1,0 +1,7 @@
+{
+  "name": "pavlos-google-mcp",
+  "version": "2.0.0",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "googleapis": "^140.0.0" },
+  "engines": { "node": ">=18" }
+}
